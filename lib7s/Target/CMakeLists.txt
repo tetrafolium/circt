@@ -1,3 +1,0 @@
-add_subdirectory(DebugInfo)
-add_subdirectory(ExportSMTLIB)
-add_subdirectory(ExportSystemC)
